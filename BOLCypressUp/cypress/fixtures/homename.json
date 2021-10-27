@@ -1,0 +1,123 @@
+[
+    {
+        "objectName":"Banking Button is visible",
+        "domobject":".banking-logout"
+    },
+
+    {
+        "objectName":"Login Button is visible",
+        "domobject":"#btnOpenLogin"
+    },
+
+    {
+        "objectName":"Join Now Button is visible",
+        "domobject":".btn.btn-sm.layout-auth-nav-join.pophover.amb-trackeable-event"
+    },
+
+    {
+        "objectName":"Sports Icon is visible",
+        "domobject":".categories > [href='/sportsbook']"
+    },
+
+    {
+        "objectName":"Live Betting Icon is visible",
+        "domobject":".categories > [href='/sportsbook/live-betting']"
+    },
+
+
+    {
+        "objectName":"Casino Icon is visible",
+        "domobject":".categories > [href='/casino']"
+    },
+
+    {
+        "objectName":"Race Book Icon is visible",
+        "domobject":".categories > [href='/horse-betting']"
+    },
+
+    {
+        "objectName":"Poker Icon is visible",
+        "domobject":".categories > [href='/poker']"
+    },
+
+    {
+        "objectName":"ESport Icon is visible",
+        "domobject":".categories > [href='/esports']"
+    },
+
+    {
+        "objectName":"Contest Icon is visible",
+        "domobject":".categories > [href='/contests']"
+    },
+    
+    {
+        "objectName":"Promos Icon is visible",
+        "domobject":".categories > [href='/promotions']"
+    },
+
+    {
+        "objectName":"Image in the middle is visible",
+        "domobject":".d-none"
+    },
+
+    {
+        "objectName":"Join Now button in the middle is visible",
+        "domobject":".open-join"
+    },
+
+    {
+        "objectName":"Bout Us link footer is visible",
+        "domobject":"#btnAboutUs"
+    },
+
+    {
+        "objectName":"Refer a friend link footer is visible",
+        "domobject":"a[href='/referafriend']"
+    },
+
+    {
+        "objectName":"Rules link footer is visible",
+        "domobject":"#btnRules"
+    },
+
+    {
+        "objectName":"Policy link footer is visible",
+        "domobject":"#btnPolicy"
+    },
+    
+    {
+        "objectName":"Affiliates link footer is visible",
+        "domobject":"a[href='https://www.commissionkings.ag/']"
+    },
+
+    {
+        "objectName":"Terms and Conditions link footer is visible",
+        "domobject":"#btnTerms"
+    },
+
+    {
+        "objectName":"Sports link footer is visible",
+        "domobject":"a[role='button'][href='#footer-menu-sportsbook']"
+    },
+
+    {
+        "objectName":"Race book link footer is visible",
+        "domobject":"a[role='button'][href='#footer-menu-racebook']"
+    },
+
+    {
+        "objectName":"Casino link footer is visible",
+        "domobject":"a[role='button'][href='#footer-menu-casino']"
+    },
+
+    {
+        "objectName":"Poker link footer is visible",
+        "domobject":"a[role='button'][href='#footer-menu-poker']"
+    },
+
+    {
+        "objectName":"Promos link footer is visible",
+        "domobject":"#footer-menu > ul.links.links--2 > li:nth-child(5) > a"
+    }
+]
+
