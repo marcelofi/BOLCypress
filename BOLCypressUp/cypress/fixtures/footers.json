@@ -1,0 +1,20 @@
+{
+    "imageButton":".d-none",
+    "footerJoinNowBtn":".open-join",
+    "aboutUsFooter":"#btnAboutUs",
+    "areferAFriendFooter":"a[href='/referafriend']",
+    "rulesFooter":"#btnRules",
+    "privacyPolicyLnk":"#btnPolicy",
+    "affilitatesLnk":"a[href='https://www.commissionkings.ag/']",
+    "termsAndConditions":"#btnTerms",
+    "sportsLnkFooter":"a[role='button'][href='#footer-menu-sportsbook']",
+    "raceBookLnFooter":"a[role='button'][href='#footer-menu-racebook']",
+    "casinoLnkFooter":"a[role='button'][href='#footer-menu-casino']",
+    "pokerLnkFooter":"a[role='button'][href='#footer-menu-poker']",
+    "promosLnkFooter":"#footer-menu > ul.links.links--2 > li:nth-child(5) > a",
+    "liveChatFooter":".btn-live-chat",
+    "emailUSFooter":"a.tile",
+    "faqBtnFooter":"#btnFaq",
+    "helpCenterBtn":"#btnHelp"
+    
+}

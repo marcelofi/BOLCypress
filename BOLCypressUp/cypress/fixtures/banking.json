@@ -1,0 +1,15 @@
+{
+    "depositNowBtn": ".btn.btn-cta.logged-out.open-login.flex",
+    "liveChatBtn":".btn.btn-cta.line.buttonLiveChat",
+    "depositOptions":"#deposit-options-tab",
+    "payoutOptions":"#payout-options-tab",
+    "bankingcombo":"#deposit-options > .layout__banking-select-box > .layout__banking-select",
+    "cashierBtn":"a[class='btn btn-cta align-self-center']",
+    "regExchageBtn":"a[data-target='#regulated-exchanges']",
+    "peerToPeerExchBtn":"a[data-target='#peertopeer-exchanges']",
+    "btcATMExch":"a[data-target='#bitcoin-atm']",
+    "mobPaymentExchan":"a[data-target='#mobile-payment-services']",
+    "walletypesMobile":"a[data-target='#mobile']",
+    "walltetypeDesktop":"a[data-target='#desktop']",
+    "liveChatLnk":"a[class='buttonLiveChat']"
+}

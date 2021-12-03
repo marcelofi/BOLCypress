@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
-    "cypress:headless":"cypress run --headless --browser chrome --spec cypress/integration/bolSpecs/home1.spec.js"
+    "cypress:headless":"cypress run --headless --browser chrome --spec cypress/integration/bolSpecs/home.spec.js"
   },
   "keywords": [
     "automation"

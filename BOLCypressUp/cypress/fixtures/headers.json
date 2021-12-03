@@ -1,0 +1,14 @@
+{
+    "bankingBtn":".banking-logout",
+    "loginBtn":"#btnOpenLogin",
+    "loginJoinBtn":".btn.btn-sm.layout-auth-nav-join.pophover.amb-trackeable-event",
+    "sporstIcon":".categories > [href='/sportsbook']",
+    "livebettingIcon":".categories > [href='/sportsbook/live-betting']",
+    "casinoIcon":".categories > [href='/casino']",
+    "raceBookIcon":".categories > [href='/horse-betting']",
+    "pokerIcon":".categories > [href='/poker']",
+    "esportIcon":".categories > [href='/esports']",
+    "contestIcon":".categories > [href='/contests']",
+    "promosIcon":".categories > [href='/promotions']",
+    "logobetonline":".logo-betonline"
+}
